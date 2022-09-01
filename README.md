@@ -74,7 +74,7 @@ service sshd restart
 
 taip exit dan exit
 
-MASUK LOGIN VPS DAN ISNTALL 
+LOGIN VPS DAN INSTALL 
 
 Langah AKHIR 
 ```
