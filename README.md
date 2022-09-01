@@ -72,7 +72,18 @@ service sshd restart
 
 ```
 
-taip exit dan exit
+```
+
+exit
+
+```
+
+```
+
+exit
+
+
+```
 
 LOGIN VPS DAN INSTALL 
 
