@@ -1,4 +1,10 @@
 # Script by Nakata143
+
+```
+apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
+
+```
+
 ```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl wget tcpdump dsniff grepcidr dnsutils -y && wget -P /root -N --no-check-certificate https://raw.githubusercontent.com/scriptadamcrew/SC/main/setup.sh && chmod +x setup.sh && "/root/setup.sh"
 
