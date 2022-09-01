@@ -1,12 +1,12 @@
 # Script by Nakata143
 
-Langkah Pertama Untuk Debian 9 & 10
+Langkah Pertama Untuk OS Debian 9 & 10
 ```
 apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 
 ```
 
-Langkah Pertama Untuk Ubuntu 18.04 & 20.04
+Langkah Pertama Untuk OS Ubuntu 18.04 & 20.04
 ```
 apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && sleep 2 && reboot
 
